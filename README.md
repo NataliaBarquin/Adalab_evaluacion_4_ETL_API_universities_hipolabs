@@ -1,4 +1,5 @@
-# DA-promoE-Mod2-Evaluacion-sprint2-NataliaBarquin
+# Evaluación ETL (API Universities Hipolabs)
+
 Evaluación 2 del Módulo 2 de Natalia Barquín
 
 Este repositorio incluye la Evaluación 2 del Módulo 2 del Bootcamp de Data Analytics.
