@@ -4,12 +4,16 @@ Evaluación 2 del Módulo 2 de Natalia Barquín
 
 Este repositorio incluye la Evaluación 2 del Módulo 2 del Bootcamp de Data Analytics.
 Esta evaluación ha consistido en un proceso de ETL (Extracción, Transformación y Carga) de la API Universities Hipolabs (este es su [link](http://universities.hipolabs.com/search?country=NOMBREPAIS).
-En este [repositorio](https://github.com/Hipo/university-domains-list) de GitHub pued encontrarse documentación sobre esta API.
+En este [repositorio](https://github.com/Hipo/university-domains-list) de GitHub puede encontrarse documentación sobre esta API.
 Se han extraído datos de la API referentes a 3 países indicados, se han aplicado procesos de limpieza y transformación a los datos y posteriormente se han añadido a una base de datos en MySQL para realizar posteriores consultas.
 Finalmente, se ha incluido el código generado dentro de una clase para optimizar el proceso.
 
-#### DIRECTORIOS DEL REPOSITORIO
+#### DIRECTORIOS Y ARCHIVOS DEL REPOSITORIO
 
+- main.py: incluye el código necesario para ejecutar la evaluación en un archivo python.
+- **src**: se incluyen dos archivos python:
+    - soporte: incluye el código en clases y funciones que usaremos en el archivo main.
+    - soporte_variables: incluye las variables que usaremos en el archivo main.    
 - **notebooks:** se incluyen dos archivos jupyter:
     - evaluacion_natalia_ejercicios : incluye la evaluación desglosada en los diferentes ejercicios.
     - evaluacion_natalia_clase : incluye el código generado durante la evaluación dentro de una clase.    
